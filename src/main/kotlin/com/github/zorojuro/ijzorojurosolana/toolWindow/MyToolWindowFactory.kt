@@ -1,4 +1,4 @@
-package com.github.zorojuro.ijzorojurosolana.toolWindow
+package com.zorojuro.ijzorojurosolana.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.zorojuro.ijzorojurosolana.MyBundle
-import com.github.zorojuro.ijzorojurosolana.services.MyProjectService
+import com.zorojuro.ijzorojurosolana.MyBundle
+import com.zorojuro.ijzorojurosolana.services.MyProjectService
 import javax.swing.JButton
 
 

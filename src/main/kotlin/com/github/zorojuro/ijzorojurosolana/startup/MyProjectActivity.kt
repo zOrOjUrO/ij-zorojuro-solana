@@ -1,4 +1,4 @@
-package com.github.zorojuro.ijzorojurosolana.startup
+package com.zorojuro.ijzorojurosolana.startup
 
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project

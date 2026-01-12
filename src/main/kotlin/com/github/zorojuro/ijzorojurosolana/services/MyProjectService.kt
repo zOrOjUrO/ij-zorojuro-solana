@@ -1,9 +1,9 @@
-package com.github.zorojuro.ijzorojurosolana.services
+package com.zorojuro.ijzorojurosolana.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.zorojuro.ijzorojurosolana.MyBundle
+import com.zorojuro.ijzorojurosolana.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

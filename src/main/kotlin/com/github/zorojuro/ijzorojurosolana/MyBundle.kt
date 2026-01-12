@@ -1,4 +1,4 @@
-package com.github.zorojuro.ijzorojurosolana
+package com.zorojuro.ijzorojurosolana
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
